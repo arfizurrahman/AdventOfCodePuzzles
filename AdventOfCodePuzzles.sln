@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOneFindTheEntries", "DayOneFindTheEntries\DayOneFindTheEntries.csproj", "{ABCBFBBE-A19C-4F58-AB25-ABB5E23C157F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayTwoPasswordPhilosophy", "DayTwoPasswordPhilosophy\DayTwoPasswordPhilosophy.csproj", "{F0452C55-C828-4926-B41B-6D8DC3DF964B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ABCBFBBE-A19C-4F58-AB25-ABB5E23C157F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABCBFBBE-A19C-4F58-AB25-ABB5E23C157F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABCBFBBE-A19C-4F58-AB25-ABB5E23C157F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0452C55-C828-4926-B41B-6D8DC3DF964B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0452C55-C828-4926-B41B-6D8DC3DF964B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0452C55-C828-4926-B41B-6D8DC3DF964B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0452C55-C828-4926-B41B-6D8DC3DF964B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
